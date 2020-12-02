@@ -3,6 +3,8 @@ helloci
 
 Test projects for Git training
 
+new commit
+
 Build
 =======
 Java project:
