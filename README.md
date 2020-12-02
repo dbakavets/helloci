@@ -1,7 +1,7 @@
 helloci
 =======
 
-Test projects for Git training
+Test projects for Git training (fork)
 
 Build
 =======
