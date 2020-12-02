@@ -3,8 +3,6 @@ helloci
 
 Test projects for Git training
 
-with successfuly configured webHook
-
 Build
 =======
 Java project:
