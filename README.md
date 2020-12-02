@@ -1,10 +1,7 @@
 helloci
 =======
 
-Test projects for Git training (Fork)
-new commit
-one more commit
-and one more commit
+Test projects for Git training
 
 Build
 =======
