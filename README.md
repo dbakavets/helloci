@@ -3,6 +3,7 @@ helloci
 
 Test projects for Git training (Fork)
 new commit
+one more commit
 
 Build
 =======
