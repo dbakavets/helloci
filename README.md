@@ -3,8 +3,7 @@ helloci
 
 Test projects for Git training
 
-new commit
-another commit
+with successfuly configured webHook
 
 Build
 =======
