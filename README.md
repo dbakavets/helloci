@@ -3,9 +3,6 @@ helloci
 
 Test projects for Git training
 
-new commit
-one more commit
-
 Build
 =======
 Java project:
