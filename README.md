@@ -2,9 +2,9 @@ helloci
 =======
 
 Test projects for Git training
+
 commit
-new commit
-and one more
+
 
 Build
 =======
