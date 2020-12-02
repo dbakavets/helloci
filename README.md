@@ -4,7 +4,7 @@ helloci
 Test projects for Git training
 
 commit
-
+one more commit
 
 Build
 =======
