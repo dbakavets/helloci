@@ -6,6 +6,7 @@ Test projects for Git training
 commit
 one more commit
 third comit
+new commit
 
 Build
 =======
